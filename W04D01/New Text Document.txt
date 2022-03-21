@@ -1,0 +1,6 @@
+def max(iter):
+	max1 = float("-inf")
+	for i in iter:
+		if max<i:
+			max1=i
+	return str(max1) + "Maximum Value"
