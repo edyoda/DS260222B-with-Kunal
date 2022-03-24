@@ -1,0 +1,3 @@
+Hey I am written by write mode
+Hey I am written manually
+Hey I am the third line written manually
