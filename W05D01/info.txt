@@ -1,0 +1,12 @@
+ Volume in drive E is Local Disk
+ Volume Serial Number is 4422-FF10
+
+ Directory of E:\Python Trainer\DS260222B\W05D01
+
+28-03-2022  20:30    <DIR>          .
+28-03-2022  20:30    <DIR>          ..
+28-03-2022  19:41    <DIR>          .ipynb_checkpoints
+28-03-2022  20:30                 0 info.txt
+28-03-2022  20:29            91,363 W05D01.ipynb
+               2 File(s)         91,363 bytes
+               3 Dir(s)  45,839,626,240 bytes free
