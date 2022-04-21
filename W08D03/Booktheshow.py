@@ -43,10 +43,10 @@ def register_user(file_name, name, phn):
     result = b1.register(name, phn)
     print(result)        
     if result:
-        result[phn] = b1.__dict__
+        content[phn] = b1.__dict__
         file.seek(0)
         file.truncate()
-        json.dump(b1.user, file, indent=4)
+        json.dump(content, file, indent=4)
         file.close()
         return "success"
     file.close()

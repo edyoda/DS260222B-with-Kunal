@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Dosa",
+        "no of plates": 12
+    },
+    {
+        "id": 2,
+        "name": "Chole",
+        "no of plates": 12
+    },
+    {
+        "id": 3,
+        "name": "Bhature",
+        "no of plates": 12
+    },
+    {
+        "id": 4,
+        "name": "Naan",
+        "no of plates": 12
+    }
+]
