@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Vinay",
+        "password": "123456",
+        "age": 23,
+        "phone number": "985464475",
+        "order history": {
+            "04-22-2022": [
+                "Vanilla ICE Cream",
+                "Vanilla ICE Cream",
+                "Vanilla ICE Cream"
+            ],
+            "05-22-2022": [
+                "Vanilla ICE Cream"
+            ]
+        }
+    }
+]

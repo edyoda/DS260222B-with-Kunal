@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Vanilla ICE Cream",
+        "no of plates": 2
+    },
+    {
+        "id": 2,
+        "name": "Pasta",
+        "no of plates": 1
+    }
+]
