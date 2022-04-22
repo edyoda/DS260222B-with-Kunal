@@ -21,7 +21,7 @@ def register_user(user_json, name, password, age, phn):
         else:
             user["id"] = len(content) + 1
             content.append(user)
-    except JSONDecodeError:
+    except json.JSONDecodeError:
         content = []
         content.append(user)
     file.seek(0)
@@ -92,7 +92,7 @@ def add_food(food_json, food_name, no_plates=1):
                 return "Food Already Available"
         food["id"]=len(content)+1
         content.append(food)
-    except JSONDecodeError:
+    except json.JSONDecodeError:
         content = []
         content.append(food)
     fp.seek(0)
